@@ -1,5 +1,4 @@
 description: Learn the basics of Init Containers and how these work.
-isDraft: true
 isAvailable: true
 isNew: true
 isPremium: true
