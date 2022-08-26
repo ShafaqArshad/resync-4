@@ -6,7 +6,6 @@ isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 1
-state: approved
 scenarios:
   - Kubernetes Resync Scenario Test
 title: Resync Test Lp 4
