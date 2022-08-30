@@ -5,8 +5,7 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 2
+scenarioCount: 1
 scenarios:
   - Kubernetes Resync Scenario Test
-  - Assets Github Test
 title: Resync Test Lp 4
